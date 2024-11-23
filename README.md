@@ -2,7 +2,7 @@
 # Date:30.08.2024
 
 # Evaluation of Prompting ToolsAcross DiverseAI Platforms 
-#       ChatGPT, Claude, Bard, Cohere Command, and Meta 
+    ChatGPT, Claude, Bard, Cohere Command, and Meta 
 
 # Experiment: 
 Within a specific use case (e.g., summarizing text, answering technical questions), compare the performance, user experience, and response quality of prompting tools across these differentAI platforms. 
